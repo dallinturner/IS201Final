@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: whitesmoke;
+}
+.container {
+    max-width: 12000px;
+    padding: 20px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.img {
+    max-width: 15%;
+    height: auto;
+    border-radius: 8px;
+    margin: 20px auto;
+    align-items: center;
+}
+.job {
+    margin-bottom: 10px;
+    text-align: center;
+    list-style-position: inside;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    
+}        
+.footer {
+    margin-top: 30px;
+    color: black;
+    background-color: lightgrey;
+}
+.hr{
+    width: 50%;
+    margin: 0 auto
+}
+.tableauViz{
+    margin-left: 125px;
+}
+.text{
+    width: 750px;
+    
+}
